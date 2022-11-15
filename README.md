@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragadesh-45&show_icons=true&locale=en" alt="pragadesh-45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragadesh-45&" alt="pragadesh-45" /></p>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragadesh45)](https://github.com/anuraghazra/github-readme-stats)
