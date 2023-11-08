@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm _Pragadesh Mahalingam</h1>
-<h3 align="center">A passionate programmer from Tamil Nadu, India</h3>
+<h3 align="center">A human from Jerusalem, Israel.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragadesh-45" alt="pragadesh-45" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pragadesh-45&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **React Native, Qiskit.**
+- 🌱 I’m currently learning **x, y, z.**
 
 - 📫 How to reach me **temporaryg7904@gmail.com**
 
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragadesh-45&show_icons=true&locale=en" alt="pragadesh-45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragadesh-45&" alt="pragadesh-45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragadesh-45&" alt="pragadesh-45" /></p>
