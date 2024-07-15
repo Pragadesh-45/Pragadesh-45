@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm _Pragadesh Mahalingam</h1>
-<h3 align="center">A human from Jerusalem, Israel.</h3>
+<h1 align="center">Hi 👋, I'm _Pragadesh M</h1>
+<h3 align="center">A Programmer from 1ndia. </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pragadesh-45&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
