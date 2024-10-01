@@ -1,28 +1,43 @@
-<h1 align="center">Hi 👋, I'm _Pragadesh M</h1>
-<h3 align="center">A Programmer from 1ndia. </h3>
+# オリオン腕の皆さん、ようこそ ~ (Orion wan no minasan, yōkoso) 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pragadesh-45&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+My name is **Pragadesh M**. I am a **software developer** and a nihilist who follows Da Vinci's way to understand everything and connect to creativity. I believe that everything is interconnected, forming a cluster of knowledge.
 
-- 🌱 I’m currently learning **x, y, z.**
+## 🌱 What I'm Learning
+- Currently exploring **basic nutritional science** as I work on a healthcare knowledge platform.
+- Learning **math** to deepen my understanding of complex neural networks and multi-modal learning.
 
-- 📫 How to reach me **temporaryg7904@gmail.com**
+## 🚀 Skills & Technologies
+- **Languages**: C, C++, Python, Java, JavaScript
+- **Frameworks**: ReactJS, Flask, Django, FastAPI
+- **Machine Learning**: TensorFlow, PyTorch, CNN, RNN, ML
+- **Others**: ElectronJS, Ardupilot, Git, GitHub, Linux
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pragadesh45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pragadesh45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pragadesh-mahalingam-011450191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragadesh-mahalingam-011450191" height="30" width="40" /></a>
-<a href="https://instagram.com/iam._always_.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam._always_.me" height="30" width="40" /></a>
-<a href="https://medium.com/@_pragadeshmahalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_pragadeshmahalingam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pragadesh_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pragadesh_m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pragadesh-45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragadesh-45" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/pragadesh.mahalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pragadesh.mahalingam" height="30" width="40" /></a>
-</p>
+## 💻 Current Projects
+- **Healthcare Knowledge Platform**: A project focused on providing accessible and comprehensive nutritional information to improve health outcomes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 💬 Community Involvement
+- Actively participating in student welfare initiatives, climate change initiatives, and book reading clubs to foster community growth and awareness.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragadesh-45&show_icons=true&locale=en&layout=compact" alt="pragadesh-45" /></p>
+## 📊 GitHub Contributions
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Pragadesh-45&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragadesh-45&show_icons=true&locale=en" alt="pragadesh-45" /></p>
+## 📜 My 忍道
+> **அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய்**  
+> **தந்நோய்போல் போற்றாக் கடை.**  
+> *(The knowledge of the wise is like a blade; it sharpens its edge and cuts through the myriad troubles of life.)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragadesh-45&" alt="pragadesh-45" /></p>
+## 📫 How to Reach Me
+- Email: [temporaryg7904@gmail.com](mailto:temporaryg7904@gmail.com)
+
+## ⚡ Fun Facts
+- I enjoy watching **old movies** for their timeless storytelling.
+- I love **reading anime**, immersing myself in diverse worlds and characters.
+- I'm fascinated by **languages** and enjoy exploring their nuances.
+
+## My Recent Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadesh-45&radius=16&theme=tokyo-night&area=true&order=5" height="363" alt="GitHub Activity Graph" />
+
+## Profile Counter
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Pragadesh-45/count.svg?" />
+</div>
